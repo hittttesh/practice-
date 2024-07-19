@@ -1,0 +1,37 @@
+
+body{
+    background-color: #fff9b2;
+}
+.color-title{
+    font-weight: bold;
+    font-style: italic;
+}
+.arms{
+    position: absolute;
+    margin: 5px;
+    padding: 0%;
+}
+.shoulders{
+    position: relative;
+    left: 305px;
+    top: 0%;
+    margin: 5px;
+    padding: 0%;
+}
+.chest{
+    position: relative;
+    left: 616px;
+    bottom: 341px;
+    padding: 0%;
+    
+}
+.legs{
+    position: relative;
+    left: 921.9px;
+    bottom: 677px;
+    
+}
+.parts{
+   padding-left: 150px;
+   padding-top: 25px;
+}
